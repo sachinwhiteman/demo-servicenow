@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="price_demo" max_length="40" name="x_348793_demo_app_price_demo" type="collection">
+        <element label="code" max_length="40" name="code" type="string"/>
+        <element label="gender" max_length="40" name="gender" type="string"/>
+        <element label="price" max_length="40" name="price" type="string"/>
+    </element>
+</database>

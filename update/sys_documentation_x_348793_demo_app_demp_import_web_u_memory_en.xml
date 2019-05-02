@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_memory" label="memory" language="en" table="x_348793_demo_app_demp_import_web">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_memory</element>
+            <help/>
+            <hint/>
+            <label>memory</label>
+            <language>en</language>
+            <name>x_348793_demo_app_demp_import_web</name>
+            <plural>memories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-02 11:41:55</sys_created_on>
+            <sys_id>938e1defdb0533003a02ab7dca961926</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>memory</sys_name>
+            <sys_package display_value="demo_app" source="x_348793_demo_app">3088196bdb0533003a02ab7dca961993</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="demo_app">3088196bdb0533003a02ab7dca961993</sys_scope>
+            <sys_update_name>sys_documentation_x_348793_demo_app_demp_import_web_u_memory_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-02 11:41:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
