@@ -3,7 +3,7 @@
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes>edge_encryption_enabled=true,import_attribute_name=u_size</attributes>
         <audit>false</audit>
         <calculation/>
         <choice>0</choice>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-02 11:41:57</sys_created_on>
-        <sys_id>7b8e1123db4533003a02ab7dca961988</sys_id>
+        <sys_id>e7846167db4533003a02ab7dca9619f3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>size</sys_name>
         <sys_package display_value="demo_app" source="x_348793_demo_app">3088196bdb0533003a02ab7dca961993</sys_package>
         <sys_policy/>
         <sys_scope display_value="demo_app">3088196bdb0533003a02ab7dca961993</sys_scope>
         <sys_update_name>sys_dictionary_x_348793_demo_app_demp_import_web_u_size</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-05-02 11:41:57</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2019-05-02 12:08:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
