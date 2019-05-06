@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="price_demo">21a9ddabdb0533003a02ab7dca961963</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="incident">caller_id=6816f79cc0a8016401c5a33be04be441^EQ<item display_table="sys_user" display_value="sachin whiteman " endquery="false" field="caller_id" goto="false" newquery="false" operator="=" or="false" value="6816f79cc0a8016401c5a33be04be441"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>my incidents</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>incident</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-06 04:58:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3a78e838db1133003a02ab7dca961984</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my incidents</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="demo_app" source="x_348793_demo_app">3088196bdb0533003a02ab7dca961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="demo_app">3088196bdb0533003a02ab7dca961993</sys_scope>
+        <sys_update_name>sys_app_module_3a78e838db1133003a02ab7dca961984</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-06 04:58:43</sys_updated_on>
+        <timeline_page/>
+        <title>my incidents</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

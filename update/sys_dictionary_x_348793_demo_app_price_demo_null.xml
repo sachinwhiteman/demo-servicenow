@@ -47,21 +47,21 @@
         <reference_qual/>
         <reference_qual_condition/>
         <reference_type/>
-        <sizeclass>15998</sizeclass>
+        <sizeclass/>
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-05-02 11:20:30</sys_created_on>
-        <sys_id>e7846167db4533003a02ab7dca9619cc</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_id>378be4bcdb1133003a02ab7dca961904</sys_id>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_348793_demo_app_price_demo</sys_name>
         <sys_package display_value="demo_app" source="x_348793_demo_app">3088196bdb0533003a02ab7dca961993</sys_package>
         <sys_policy/>
         <sys_scope display_value="demo_app">3088196bdb0533003a02ab7dca961993</sys_scope>
-        <sys_update_name>sys_dictionary_x_348793_demo_app_price_demo_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_348793_demo_app_price_demo_NULL</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2019-05-04 10:26:53</sys_updated_on>
+        <sys_updated_on>2019-05-06 05:11:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
