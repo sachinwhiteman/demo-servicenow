@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="sys_import_set_row" label="demp_import_web" max_length="40" name="x_348793_demo_app_demp_import_web" type="collection">
+    <element extends="sys_import_set_row" label="demp_import_web" max_length="40" name="x_348793_demo_app_demp_import_web" sizeclass="8335" type="collection">
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_baseprice" label="basePrice" max_length="40" name="u_baseprice" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_brandname" label="brandName" max_length="40" name="u_brandname" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=u_code" label="Code" max_length="40" name="u_code" type="string"/>
